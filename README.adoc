@@ -1,0 +1,62 @@
+# gopick
+Utility to query and project data from JSON documents
+
+## Syntax
+
+  gopick <query> [<source>]
+
+query::
+a query and projection, syntax tbd.
+source::
+the input source. Either a local text file or HTTP(S) GET request. If omitted, read from stdin.
+
+## Syntax Definition
+
+### conditions to handle
+
+. read JSON array of objects and select matching objects
+. read JSON array of primatives and select matching items
+. read JSON object and select single node
+. read JSON object and select list of nodes
+
+### syntax ideas
+
+#### slices
+  [start:end] # take slice of array from _start_ to _end_
+  [:end]      # take slice of array from beginning to _end_
+  [start:]    # take slice of array from _start_ to end of array
+  [index]     # take a single element from array at _index_
+  [{predicate}] # select slice based on filter _predicate_
+  
+#### predicates
+    {attr==value} # e.g. {name==john} selects objects that have an attribute _name_ with value _john_ (case sensitive?)
+    {attr} # e.g. {name} selects objects that have an attribute _name_ regardless of value (how are null handled??)
+    
+##### predicate operators:
+    ==   equals
+    !=   not equal
+    >    greater than
+    <    less than
+    >=   greater or equal to
+    <=   less or equal to
+    ~    regex
+  
+#### projections
+
+  (no projection) - output full object selected
+  =>*       output full object selected
+  =>name*   output objects with attributes starting with _name*_
+  =>name1,name2,name3  output object with only _name1_, _name2_, and _name3_
+  =>mix,and*,match     mix syntax.
+
+
+## TO DO
+
+* main
+** [ ] define query syntax
+** [ ] main reads query and (optional) source
+** [ ] main determines input source (stdin, file, url)
+** [ ] query is interpolated into the thing that is used to process it and produce results
+** [ ] stream data into proccessing thing to generate output (can we even stream JSON?)
+** [ ] determine if processing was successful and return with success code.
+
