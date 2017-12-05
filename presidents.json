@@ -1,0 +1,833 @@
+[{
+	"ordinal": 1,
+	"presidency": {
+		"start": "April 30, 1789",
+		"end": "March 4, 1797"
+	},
+	"name": "George Washington",
+	"birth": 1732,
+	"death": 1799,
+	"party": "Unaffiliated",
+	"terms": [{
+		"ordinal": 1,
+		"inauguration": 1789
+	}, {
+		"ordinal": 2,
+		"inauguration": 1793
+	}],
+	"vice-presidents": [
+		"John Adams"
+	]
+}, {
+	"ordinal": 2,
+	"presidency": {
+		"start": "March 4, 1797",
+		"end": "March 4, 1801"
+	},
+	"name": "John Adams",
+	"birth": 1735,
+	"death": 1826,
+	"party": "Federalist",
+	"terms": [{
+		"ordinal": 3,
+		"inauguration": 1797
+	}],
+	"vice-presidents": [
+		"Thomas Jefferson"
+	]
+}, {
+	"ordinal": 3,
+	"presidency": {
+		"start": "March 4, 1801",
+		"end": "March 4, 1809"
+	},
+	"name": "Thomas Jefferson",
+	"birth": 1743,
+	"death": 1826,
+	"party": "Democratic-Republican",
+	"terms": [{
+		"ordinal": 4,
+		"inauguration": 1801
+	}, {
+		"ordinal": 5,
+		"inauguration": 1805
+	}],
+	"vice-presidents": [
+		"Aaron Burr",
+		"George Clinton"
+	]
+}, {
+	"ordinal": 4,
+	"presidency": {
+		"start": "March 4, 1809",
+		"end": "March 4, 1817"
+	},
+	"name": "James Madison",
+	"birth": 1751,
+	"death": 1836,
+	"party": "Democratic-Republican",
+	"terms": [{
+		"ordinal": 6,
+		"inauguration": 1809
+	}, {
+		"ordinal": 7,
+		"inauguration": 1813
+	}],
+	"vice-presidents": [
+		"George Clinton",
+		"Elbridge Gerry"
+	]
+}, {
+	"ordinal": 5,
+	"presidency": {
+		"start": "March 4, 1817",
+		"end": "March 4, 1825"
+	},
+	"name": "James Monroe",
+	"birth": 1758,
+	"death": 1831,
+	"party": "Democratic-Republican",
+	"terms": [{
+		"ordinal": 8,
+		"inauguration": 1817
+	}, {
+		"ordinal": 9,
+		"inauguration": 1821
+	}],
+	"vice-presidents": [
+		"Daniel D. Tompkins"
+	]
+}, {
+	"ordinal": 6,
+	"presidency": {
+		"start": "March 4, 1825",
+		"end": "March 4, 1829"
+	},
+	"name": "John Quincy Adams",
+	"birth": 1767,
+	"death": 1848,
+	"party": "Democratic-Republican",
+	"terms": [{
+		"ordinal": 10,
+		"inauguration": 1825
+	}],
+	"vice-presidents": [
+		"John C. Calhoun"
+	]
+}, {
+	"ordinal": 7,
+	"presidency": {
+		"start": "March 4, 1829",
+		"end": "March 4, 1837"
+	},
+	"name": "Andrew Jackson",
+	"birth": 1767,
+	"death": 1845,
+	"party": "Democratic",
+	"terms": [{
+		"ordinal": 11,
+		"inauguration": 1829
+	}, {
+		"ordinal": 12,
+		"inauguration": 1833
+	}],
+	"vice-presidents": [
+		"John C. Calhoun",
+		"Martin Van Buren"
+	]
+}, {
+	"ordinal": 8,
+	"presidency": {
+		"start": "March 4, 1837",
+		"end": "March 4, 1841"
+	},
+	"name": "Martin Van Buren",
+	"birth": 1782,
+	"death": 1862,
+	"party": "Democratic",
+	"terms": [{
+		"ordinal": 13,
+		"inauguration": 1837
+	}],
+	"vice-presidents": [
+		"Richard M. Johnson"
+	]
+}, {
+	"ordinal": 9,
+	"presidency": {
+		"start": "March 4, 1841",
+		"end": "April 4, 1841"
+	},
+	"name": "William Henry Harrison",
+	"birth": 1773,
+	"death": 1841,
+	"diedInOffice": true,
+	"party": "Whig",
+	"terms": [{
+		"ordinal": 14,
+		"inauguration": 1841
+	}],
+	"vice-presidents": [
+		"John Tyler"
+	]
+}, {
+	"ordinal": 10,
+	"presidency": {
+		"start": "April 4, 1841",
+		"end": "March 4, 1845"
+	},
+	"name": "John Tyler",
+	"birth": 1790,
+	"death": 1862,
+	"party": "Whig/Unaffiliated",
+	"terms": [{
+		"ordinal": 14,
+		"inauguration": 1841
+	}],
+	"vice-presidents": []
+}, {
+	"ordinal": 11,
+	"presidency": {
+		"start": "March 4, 1845",
+		"end": "March 4, 1849"
+	},
+	"name": "James K. Polk",
+	"birth": 1795,
+	"death": 1849,
+	"party": "Democratic",
+	"terms": [{
+		"ordinal": 15,
+		"inauguration": 1845
+	}],
+	"vice-presidents": [
+		"George M. Dallas"
+	]
+}, {
+	"ordinal": 12,
+	"presidency": {
+		"start": "March 4, 1849",
+		"end": "July 9, 1850"
+	},
+	"name": "Zachary Taylor",
+	"birth": 1784,
+	"death": 1850,
+	"diedInOffice": true,
+	"party": "Whig",
+	"terms": [{
+		"ordinal": 16,
+		"inauguration": 1849
+	}],
+	"vice-presidents": [
+		"Millard Fillmore"
+	]
+}, {
+	"ordinal": 13,
+	"presidency": {
+		"start": "July 9, 1850",
+		"end": "March 4, 1853"
+	},
+	"name": "Millard Fillmore",
+	"birth": 1800,
+	"death": 1874,
+	"party": "Whig",
+	"terms": [{
+		"ordinal": 16,
+		"inauguration": 1850
+	}],
+	"vice-presidents": []
+}, {
+	"ordinal": 14,
+	"presidency": {
+		"start": "March 4, 1853",
+		"end": "March 4, 1857"
+	},
+	"name": "Franklin Pierce",
+	"birth": 1804,
+	"death": 1869,
+	"party": "Democratic",
+	"terms": [{
+		"ordinal": 17,
+		"inauguration": 1853
+	}],
+	"vice-presidents": [
+		"William R. King"
+	]
+}, {
+	"ordinal": 15,
+	"presidency": {
+		"start": "March 4, 1857",
+		"end": "March 4, 1861"
+	},
+	"name": "James Buchanan",
+	"birth": 1791,
+	"death": 1868,
+	"party": "Democratic",
+	"terms": [{
+		"ordinal": 18,
+		"inauguration": 1857
+	}],
+	"vice-presidents": [
+		"John C. Breckinridge"
+	]
+}, {
+	"ordinal": 16,
+	"presidency": {
+		"start": "March 4, 1861",
+		"end": "April 15, 1865"
+	},
+	"name": "Abraham Lincoln",
+	"birth": 1809,
+	"death": 1865,
+	"diedInOffice": true,
+	"party": "Republican/National Union",
+	"terms": [{
+		"ordinal": 19,
+		"inauguration": 1861
+	}, {
+		"ordinal": 20,
+		"inauguration": 1865
+	}],
+	"vice-presidents": [
+		"Hannibal Hamlin",
+		"Andrew Johnson"
+	]
+}, {
+	"ordinal": 17,
+	"presidency": {
+		"start": "April 15, 1865",
+		"end": "March 4, 1869"
+	},
+	"name": "Andrew Johnson",
+	"birth": 1808,
+	"death": 1875,
+	"party": "National Union/Democratic",
+	"terms": [{
+		"ordinal": 20,
+		"inauguration": 1865
+	}]
+}, {
+	"ordinal": 18,
+	"presidency": {
+		"start": "March 4, 1869",
+		"end": "March 4, 1877"
+	},
+	"name": "Ulysses S. Grant",
+	"birth": 1822,
+	"death": 1885,
+	"party": "Republican",
+	"terms": [{
+		"ordinal": 21,
+		"inauguration": 1869
+	}, {
+		"ordinal": 22,
+		"inauguration": 1873
+	}],
+	"vice-presidents": [
+		"Schuyler Colfax",
+		"Henry Wilson"
+	]
+}, {
+	"ordinal": 19,
+	"presidency": {
+		"start": "March 4, 1877",
+		"end": "March 4, 1881"
+	},
+	"name": "Rutherford B. Hayes",
+	"birth": 1822,
+	"death": 1893,
+	"party": "Republican",
+	"terms": [{
+		"ordinal": 23,
+		"inauguration": 1877
+	}],
+	"vice-presidents": [
+		"William A. Wheeler"
+	]
+}, {
+	"ordinal": 20,
+	"presidency": {
+		"start": "March 4, 1881",
+		"end": "September 19, 1881"
+	},
+	"name": "James A. Garfield",
+	"birth": 1831,
+	"death": 1881,
+	"diedInOffice": true,
+	"party": "Republican",
+	"terms": [{
+		"ordinal": 24,
+		"inauguration": 1881
+	}],
+	"vice-presidents": [
+		"Chester A. Arthur"
+	]
+}, {
+	"ordinal": 21,
+	"presidency": {
+		"start": "September 19, 1881",
+		"end": "March 4, 1885"
+	},
+	"name": "Chester A. Arthur",
+	"birth": 1829,
+	"death": 1886,
+	"party": "Republican",
+	"terms": [{
+		"ordinal": 24,
+		"inauguration": 1881
+	}]
+}, {
+	"ordinal": 22,
+	"presidency": {
+		"start": "March 4, 1885",
+		"end": "March 4, 1889"
+	},
+	"name": "Grover Cleveland",
+	"birth": 1837,
+	"death": 1908,
+	"party": "Democratic",
+	"terms": [{
+		"ordinal": 25,
+		"inauguration": 1885
+	}],
+	"vice-presidents": [
+		"Thomas A. Hendricks"
+	]
+}, {
+	"ordinal": 23,
+	"presidency": {
+		"start": "March 4, 1889",
+		"end": "March 4, 1893"
+	},
+	"name": "Benjamin Harrison",
+	"birth": 1833,
+	"death": 1901,
+	"party": "Republican",
+	"terms": [{
+		"ordinal": 26,
+		"inauguration": 1889
+	}],
+	"vice-presidents": [
+		"Levi P. Morton"
+	]
+}, {
+	"ordinal": 24,
+	"presidency": {
+		"start": "March 4, 1893",
+		"end": "March 4, 1897"
+	},
+	"name": "Grover Cleveland",
+	"birth": 1837,
+	"death": 1908,
+	"party": "Democratic",
+	"terms": [{
+		"ordinal": 27,
+		"inauguration": 1893
+	}],
+	"vice-presidents": [
+		"Adlai Stevenson"
+	]
+}, {
+	"ordinal": 25,
+	"presidency": {
+		"start": "March 4, 1897",
+		"end": "September 14, 1901"
+	},
+	"name": "William McKinley",
+	"birth": 1843,
+	"death": 1901,
+	"diedInOffice": true,
+	"party": "Republican",
+	"terms": [{
+		"ordinal": 28,
+		"inauguration": 1897
+	}, {
+		"ordinal": 29,
+		"inauguration": 1901
+	}],
+	"vice-presidents": [
+		"Garret Hobart",
+		"Theodore Roosevelt"
+	]
+}, {
+	"ordinal": 26,
+	"presidency": {
+		"start": "September 14, 1901",
+		"end": "March 4, 1909"
+	},
+	"name": "Theodore Roosevelt",
+	"birth": 1858,
+	"death": 1919,
+	"party": "Republican",
+	"terms": [{
+		"ordinal": 29,
+		"inauguration": 1901
+	}, {
+		"ordinal": 30,
+		"inauguration": 1905
+	}],
+	"vice-presidents": [
+		"Charles W. Fairbanks"
+	]
+}, {
+	"ordinal": 27,
+	"presidency": {
+		"start": "March 4, 1909",
+		"end": "March 4, 1913"
+	},
+	"name": "William Howard Taft",
+	"birth": 1857,
+	"death": 1930,
+	"party": "Republican",
+	"terms": [{
+		"ordinal": 31,
+		"inauguration": 1909
+	}],
+	"vice-presidents": [
+		"James S. Sherman"
+	]
+}, {
+	"ordinal": 28,
+	"presidency": {
+		"start": "March 4, 1913",
+		"end": "March 4, 1921"
+	},
+	"name": "Woodrow Wilson",
+	"birth": 1856,
+	"death": 1924,
+	"party": "Democratic",
+	"terms": [{
+		"ordinal": 32,
+		"inauguration": 1913
+	}, {
+		"ordinal": 33,
+		"inauguration": 1917
+	}],
+	"vice-presidents": [
+		"Thomas R. Marshall"
+	]
+}, {
+	"ordinal": 29,
+	"presidency": {
+		"start": "March 4, 1921",
+		"end": "August 2, 1923"
+	},
+	"name": "Warren G. Harding",
+	"birth": 1865,
+	"death": 1923,
+	"diedInOffice": true,
+	"party": "Republican",
+	"terms": [{
+		"ordinal": 34,
+		"inauguration": 1921
+	}],
+	"vice-presidents": [
+		"Calvin Coolidge"
+	]
+}, {
+	"ordinal": 30,
+	"presidency": {
+		"start": "August 2, 1923",
+		"end": "March 4, 1929"
+	},
+	"name": "Calvin Coolidge",
+	"birth": 1872,
+	"death": 1933,
+	"party": "Republican",
+	"terms": [{
+		"ordinal": 34,
+		"inauguration": 1923
+	}, {
+		"ordinal": 35,
+		"inauguration": 1925
+	}],
+	"vice-presidents": [
+		"Charles G. Dawes"
+	]
+}, {
+	"ordinal": 31,
+	"presidency": {
+		"start": "March 4, 1929",
+		"end": "March 4, 1933"
+	},
+	"name": "Herbert Hoover",
+	"birth": 1874,
+	"death": 1964,
+	"party": "Republican",
+	"terms": [{
+		"ordinal": 36,
+		"inauguration": 1929
+	}],
+	"vice-presidents": [
+		"Charles Curtis"
+	]
+}, {
+	"ordinal": 32,
+	"presidency": {
+		"start": "March 4, 1933",
+		"end": "April 12, 1945"
+	},
+	"name": "Franklin D. Roosevelt",
+	"birth": 1882,
+	"death": 1945,
+	"diedInOffice": true,
+	"party": "Democratic",
+	"terms": [{
+		"ordinal": 37,
+		"inauguration": 1933
+	}, {
+		"ordinal": 38,
+		"inauguration": 1937
+	}, {
+		"ordinal": 39,
+		"inauguration": 1941
+	}, {
+		"ordinal": 40,
+		"inauguration": 1945
+	}],
+	"vice-presidents": [
+		"John N. Garner",
+		"Henry A. Wallace",
+		"Harry S. Truman"
+	]
+}, {
+	"ordinal": 33,
+	"presidency": {
+		"start": "April 12, 1945",
+		"end": "January 20, 1953"
+	},
+	"name": "Harry S. Truman",
+	"birth": 1884,
+	"death": 1972,
+	"party": "Democratic",
+	"terms": [{
+		"ordinal": 40,
+		"inauguration": 1945
+	}, {
+		"ordinal": 41,
+		"inauguration": 1949
+	}],
+	"vice-presidents": [
+		"Alben W. Barkley"
+	]
+}, {
+	"ordinal": 34,
+	"presidency": {
+		"start": "January 20, 1953",
+		"end": "January 20, 1961"
+	},
+	"name": "Dwight D. Eisenhower",
+	"birth": 1890,
+	"death": 1969,
+	"party": "Republican",
+	"terms": [{
+		"ordinal": 42,
+		"inauguration": 1953
+	}, {
+		"ordinal": 43,
+		"inauguration": 1957
+	}],
+	"vice-presidents": [
+		"Richard Nixon"
+	]
+}, {
+	"ordinal": 35,
+	"presidency": {
+		"start": "January 20, 1961",
+		"end": "November 22, 1963"
+	},
+	"name": "John F. Kennedy",
+	"birth": 1917,
+	"death": 1963,
+	"diedInOffice": true,
+	"party": "Democratic",
+	"terms": [{
+		"ordinal": 44,
+		"inauguration": 1961
+	}],
+	"vice-presidents": [
+		"Lyndon B. Johnson"
+	]
+}, {
+	"ordinal": 36,
+	"presidency": {
+		"start": "November 22, 1963",
+		"end": "January 20, 1969"
+	},
+	"name": "Lyndon B. Johnson",
+	"birth": 1908,
+	"death": 1973,
+	"party": "Democratic",
+	"terms": [{
+		"ordinal": 44,
+		"inauguration": 1963
+	}, {
+		"ordinal": 45,
+		"inauguration": 1965
+	}],
+	"vice-presidents": [
+		"Hubert Humphrey"
+	]
+}, {
+	"ordinal": 37,
+	"presidency": {
+		"start": "January 20, 1969",
+		"end": "August 9, 1974"
+	},
+	"name": "Richard Nixon",
+	"birth": 1913,
+	"death": 1994,
+	"resignedFromOffice": true,
+	"party": "Republican",
+	"terms": [{
+		"ordinal": 46,
+		"inauguration": 1969
+	}, {
+		"ordinal": 47,
+		"inauguration": 1973
+	}],
+	"vice-presidents": [
+		"Spiro Agnew",
+		"Gerald Ford"
+	]
+}, {
+	"ordinal": 38,
+	"presidency": {
+		"start": "August 9, 1974",
+		"end": "January 20, 1977"
+	},
+	"name": "Gerald Ford",
+	"birth": 1913,
+	"death": 2006,
+	"party": "Republican",
+	"terms": [{
+		"ordinal": 47,
+		"inauguration": 1974
+	}],
+	"vice-presidents": [
+		"Nelson Rockefeller"
+	]
+}, {
+	"ordinal": 39,
+	"presidency": {
+		"start": "January 20, 1977",
+		"end": "January 20, 1981"
+	},
+	"name": "Jimmy Carter",
+	"birth": 1924,
+	"party": "Democratic",
+	"terms": [{
+		"ordinal": 48,
+		"inauguration": 1977
+	}],
+	"vice-presidents": [
+		"Walter Mondale"
+	]
+}, {
+	"ordinal": 40,
+	"presidency": {
+		"start": "January 20, 1981",
+		"end": "January 20, 1989"
+	},
+	"name": "Ronald Reagan",
+	"birth": 1911,
+	"death": 2004,
+	"party": "Republican",
+	"terms": [{
+		"ordinal": 49,
+		"inauguration": 1981
+	}, {
+		"ordinal": 50,
+		"inauguration": 1985
+	}],
+	"vice-presidents": [
+		"George H. W. Bush"
+	]
+}, {
+	"ordinal": 41,
+	"presidency": {
+		"start": "January 20, 1989",
+		"end": "January 20, 1993"
+	},
+	"name": "George H. W. Bush",
+	"birth": 1924,
+	"party": "Republican",
+	"terms": [{
+		"ordinal": 51,
+		"inauguration": 1989
+	}],
+	"vice-presidents": [
+		"Dan Quayle"
+	]
+}, {
+	"ordinal": 42,
+	"presidency": {
+		"start": "January 20, 1993",
+		"end": "January 20, 2001"
+	},
+	"name": "Bill Clinton",
+	"birth": 1946,
+	"party": "Democratic",
+	"terms": [{
+		"ordinal": 52,
+		"inauguration": 1993
+	}, {
+		"ordinal": 53,
+		"inauguration": 1997
+	}],
+	"vice-presidents": [
+		"Al Gore"
+	]
+}, {
+	"ordinal": 43,
+	"presidency": {
+		"start": "January 20, 2001",
+		"end": "January 20, 2009"
+	},
+	"name": "George W. Bush",
+	"birth": 1946,
+	"party": "Republican",
+	"terms": [{
+		"ordinal": 54,
+		"inauguration": 2001
+	}, {
+		"ordinal": 55,
+		"inauguration": 2005
+	}],
+	"vice-presidents": [
+		"Dick Cheney"
+	]
+}, {
+	"ordinal": 44,
+	"presidency": {
+		"start": "January 20, 2009",
+		"end": "January 20, 2017"
+	},
+	"name": "Barack Obama",
+	"birth": 1961,
+	"party": "Democratic",
+	"terms": [{
+		"ordinal": 56,
+		"inauguration": 2009
+	}, {
+		"ordinal": 57,
+		"inauguration": 2013
+	}],
+	"vice-presidents": [
+		"Joe Biden"
+	]
+}, {
+	"ordinal": 45,
+	"presidency": {
+		"start": "January 20, 2017"
+	},
+	"name": "Donald Trump",
+	"birth": 1946,
+	"party": "Republican",
+	"terms": [{
+		"ordinal": 58,
+		"inauguration": 2017
+	}],
+	"vice-presidents": [
+		"Mike Pence"
+	]
+}]

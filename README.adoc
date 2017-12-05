@@ -3,12 +3,17 @@ Utility to query and project data from JSON documents
 
 ## Syntax
 
-  gopick <query> [<source>]
+  gopick <query> [::<projection>] [<source>]
 
 query::
-a query and projection, syntax tbd.
+A query used to select nodes to be output
+projection::
+Indicates what to output from selected nodes
 source::
-the input source. Either a local text file or HTTP(S) GET request. If omitted, read from stdin.
+the input source. Either a local text file or HTTP(S) GET request. If omitted,
+read from stdin
+
+
 
 ## Syntax Definition
 
@@ -20,6 +25,15 @@ the input source. Either a local text file or HTTP(S) GET request. If omitted, r
 . read JSON object and select list of nodes
 
 ### syntax ideas
+
+
+gopick 'party::name,ordinal' presidents.JSON
+gopick '[12]::name' presidents.json
+gopick '[3:10]::name,ordinal' presidents.json
+gopick 'name==jackson::name,ordinal' presidents.json
+
+*Queries*
+
 
 #### slices
   [start:end] # take slice of array from _start_ to _end_
